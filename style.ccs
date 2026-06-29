@@ -1,0 +1,30 @@
+body {
+    background: #87CEEB;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 80px;
+}
+
+h1 {
+    font-size: 60px;
+    color: #0b3d91;
+}
+
+button {
+    font-size: 30px;
+    padding: 20px 60px;
+    border: none;
+    border-radius: 20px;
+    background: #3aa655;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #2f8b46;
+}
+
+#fish {
+    font-size: 32px;
+    font-weight: bold;
+}
